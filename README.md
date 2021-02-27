@@ -2,8 +2,8 @@
 An implementation of various fundamentals to programming in c++ (custom stl containers, common algorithms, and efficient solutions to common problems)
 
 ## Custom STL containers
- - [ ] Vector
- - [ ] Matrix
+ - [x] Vector
+ - [x] Matrix
  - [ ] Linked List
  - [ ] Stack/Queue
  - [ ] Binary Search Tree
